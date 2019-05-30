@@ -7,12 +7,4 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'pipe';
-
-//Array tipo json
-informacion: any = [
-{codigo:1, Nombre: "Nicolas ", Apellido: "Martinez", Sueldo: 700000},
-{codigo:1, Nombre: "Matias ", Apellido: "Gutierrez", Sueldo: 800000},
-{codigo:1, Nombre: "Jorge ", Apellido: "Vidal", Sueldo: 900000}]
-
-
 }
